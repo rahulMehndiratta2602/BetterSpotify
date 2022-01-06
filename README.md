@@ -1,2 +1,3 @@
-Design Credit : Nicholas Ergemla
-https://dribbble.com/shots/15165960-Spotify-Redesign
+## Design Credits
+
+Design by Nicholas Ergemla. Checkout [this](https://dribbble.com/shots/15165960-Spotify-Redesign) link.
